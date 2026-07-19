@@ -449,6 +449,7 @@ footer{
         font-size: 25px;
     }
     .section_text{
+        width: auto;
         height: 0;
         display: grid;
         grid-template-columns: 330px;
